@@ -1,0 +1,51 @@
+﻿SiteID,SiteType,Description,Latitude,Longitude,Elev_masl,Dist_m,ScrnBot_m_bgs,ScrnTop_m_bgs,WellDiam_cm
+P5,Bedrock Well,Bedrock monitoring well P5,39.88051,-105.53151,2969,-9999,38.7,32.6,5.1
+P8,Bedrock Well,Bedrock monitoring well P8,39.88045,-105.53401,3053,-9999,100.6,30.5,5.1
+P9A,Bedrock Well,Bedrock monitoring well P9A,39.88070,-105.53109,2966,-9999,74.9,68.8,1.9
+P9B,Bedrock Well,Bedrock monitoring well P9B,39.88070,-105.53109,2966,-9999,47.2,41.1,1.9
+P9C,Bedrock Well,Bedrock monitoring well P9C,39.88070,-105.53109,2966,-9999,34.3,28.3,1.9
+P9D,Bedrock Well,Bedrock monitoring well P9D,39.88070,-105.53109,2966,-9999,21.9,12.8,1.9
+P10A,Bedrock Well,Bedrock monitoring well P10A,39.88033,-105.53166,2970,-9999,54.9,48.8,1.9
+P10B,Bedrock Well,Bedrock monitoring well P10B,39.88033,-105.53166,2970,-9999,35.7,29.6,1.9
+P10C,Bedrock Well,Bedrock monitoring well P10C,39.88033,-105.53166,2970,-9999,22.9,16.8,1.9
+P10D,Bedrock Well,Bedrock monitoring well P10D,39.88033,-105.53166,2970,-9999,12.8,9.72,1.9
+MW1,Streambank Well,Left-bank shallow monitoring well MW1,39.87786,-105.53107,2943,55,1.42,0.00,2.5
+MW2,Streambank Well,Left-bank shallow monitoring well MW2,39.87882,-105.53010,2928,215,1.09,0.00,2.5
+MW3,Streambank Well,Left-bank shallow monitoring well MW3,39.87966,-105.52903,2914,393,1.52,0.00,2.5
+MW4,Streambank Well,Left-bank shallow monitoring well MW4,39.88039,-105.52784,2902,548,1.66,0.00,2.5
+MW5,Streambank Well,Left-bank shallow monitoring well MW5,39.88077,-105.52700,2894,647,1.38,0.00,2.5
+SMW1,Spring Well,Left-bank spring monitoring well SMW1,39.87937,-105.52963,2923,315,0.84,0.00,2.5
+SMW2,Spring Well,Left-bank spring monitoring well SMW2,39.87913,-105.53001,2927,253,0.62,0.00,2.5
+SMW3,Spring Well,Left-bank spring monitoring well SMW3,39.87872,-105.53028,2931,192,1.09,0.00,2.5
+RBS1,Spring,Right-bank spring RBS1,39.87992,-105.52850,2910,464,-9999,-9999,-9999
+RBS2,Spring,Right-bank spring RBS2,39.87900,-105.52935,2927,300,-9999,-9999,-9999
+PTL1,Portal Drainage,Portal drainage at collapsed portal,39.87998,-105.53044,2935,-9999,-9999,-9999,-9999
+PTL2-GG393,LBI,Left-bank inflow from portal drainage,39.87967,-105.52904,2914,393,-9999,-9999,-9999
+GG-0327,LBI,Left-bank inflow from SMW1 spring discharge zone,39.87942,-105.52951,2919,327,-9999,-9999,-9999
+GG-1010,LBI,Left-bank inflow,39.88259,-105.52391,2863,1010,-9999,-9999,-9999
+GG-0307,RBI,Right-bank inflow from RBS2 spring discharge zone,39.87929,-105.52955,2920,307,-9999,-9999,-9999
+GG-0500,RBI,Right-bank inflow from RBS1 spring discharge zone,39.88019,-105.52828,2906,500,-9999,-9999,-9999
+STR1,Stream,Gamble Gulch stream sample,39.87759,-105.53125,2947,20,-9999,-9999,-9999
+STR2,Stream,Gamble Gulch stream sample,39.87834,-105.53057,2935,126,-9999,-9999,-9999
+STR3,Stream,Gamble Gulch stream sample,39.87944,-105.52945,2919,338,-9999,-9999,-9999
+STR4,Stream,Gamble Gulch stream sample,39.88009,-105.52844,2908,474,-9999,-9999,-9999
+STR5,Stream,Gamble Gulch stream sample,39.88061,-105.52747,2899,596,-9999,-9999,-9999
+STR6,Stream,Gamble Gulch stream sample,39.88101,-105.52660,2890,695,-9999,-9999,-9999
+GG-0250,Stream,Gamble Gulch stream sample,39.87909,-105.52999,2925,250,-9999,-9999,-9999
+GG-0295,Stream,Gamble Gulch stream sample,39.87922,-105.52958,2921,295,-9999,-9999,-9999
+GG-0350,Stream,Gamble Gulch stream sample,39.87950,-105.52935,2918,350,-9999,-9999,-9999
+GG-0385,Stream,"Gamble Gulch stream sample, Transport Site #1",39.87961,-105.52909,2915,385,-9999,-9999,-9999
+GG-0423,Stream,Gamble Gulch stream sample,39.87983,-105.52890,2913,423,-9999,-9999,-9999
+GG-0485,Stream,Gamble Gulch stream sample,39.88016,-105.52838,2907,485,-9999,-9999,-9999
+GG-0540,Stream,Gamble Gulch stream sample,39.88032,-105.52785,2903,540,-9999,-9999,-9999
+GG-0599,Stream,Gamble Gulch stream sample,39.88063,-105.52744,2899,599,-9999,-9999,-9999
+GG-0657,Stream,Gamble Gulch stream sample,39.88083,-105.52693,2893,657,-9999,-9999,-9999
+GG-0770,Stream,Gamble Gulch stream sample,39.88133,-105.52587,2884,770,-9999,-9999,-9999
+GG-0860,Stream,Gamble Gulch stream sample,39.88168,-105.52503,2875,860,-9999,-9999,-9999
+GG-0953,Stream,"Gamble Gulch stream sample, Transport Site #2",39.88221,-105.52433,2868,953,-9999,-9999,-9999
+GG-1038,Stream,Gamble Gulch stream sample,39.88274,-105.52367,2861,1038,-9999,-9999,-9999
+GG-1311,Stream,Gamble Gulch stream sample,39.88465,-105.52222,2843,1311,-9999,-9999,-9999
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
